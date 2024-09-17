@@ -1,4 +1,4 @@
-import { Editorial } from "../book/editorial/editorial"; 
+import { Editorial } from "../editorial/editorial"; 
 
 export class Book {  
     id: number; 
